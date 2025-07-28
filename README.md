@@ -23,9 +23,9 @@ SureKeep V2 is a sleek and secure password manager built with modern web technol
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./Public/login.png" alt="Login Page" width="45%" />
+  <img src="Public/login.png" alt="Login Page" width="45%" />
   &nbsp;
-  <img src="./Public/dashboard.png" alt="Dashboard" width="45%" />
+  <img src="Public/dashboard.png" alt="Dashboard" width="45%" />
 </p>
 
 
